@@ -1,0 +1,2 @@
+to install the dependencies write 
+    npm install --legacy-peer-deps
